@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="FakeZon">
+  <rect width="512" height="512" rx="112" fill="#12343b"/>
+  <path d="M112 186 256 104l144 82v160l-144 82-144-82z" fill="#f6b73c"/>
+  <path d="m112 186 144 80 144-80M256 266v162" fill="none" stroke="#12343b" stroke-width="34" stroke-linejoin="round"/>
+  <path d="M184 146 326 224" fill="none" stroke="#fff4cf" stroke-width="34" stroke-linecap="round" opacity=".9"/>
+  <path d="M162 332c42 38 105 54 188 21" fill="none" stroke="#12343b" stroke-width="28" stroke-linecap="round"/>
+</svg>
